@@ -1,0 +1,214 @@
+/*home*/
+img.banner{
+	width: 100%;
+}
+.navigation{
+	position: relative;	
+}
+.above{
+	position: absolute;
+	top: 50px;
+	left: 80px;
+}
+.centertext{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	text-align: center;
+	transform: translate(-50%,-50%);
+	font-size: 2em;
+	color: white;
+}
+span{
+	color: rgb(255, 128, 128);
+}
+.topright{
+	position: absolute;
+	top: 50px;
+	right: 80px;
+}
+a{
+	padding: 10px;
+	color: white;
+	text-decoration: none;
+}
+/*home*/
+/*about*/
+.about{
+	text-align: center;
+	width: 100%;
+	font-size: 2em;
+	color: rgb(128, 255, 255);
+}
+img.photo{
+	border-radius: 50%;
+	float: left;
+	vertical-align:middle ;
+	width: 150px;
+	height: 150px;
+
+}
+.textphoto{
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	padding-left: 2px;
+	padding-right: 2px;	
+}
+.text{
+	text-align: center;
+	font-size: 1.2em;
+	width: 100%;
+	color: gray;
+}
+.border{
+	background-color: rgb(192, 192, 192);
+	width: 400px;	
+}
+.bar{
+	background-color: rgb(255, 128, 128);
+	width: 75%;
+	height: 10px;
+}
+.table-bar{
+	display: table;
+	width: 80%;
+	margin-left: 20% ;
+}
+.row{
+	display: table-row;
+}
+.box-bar{
+	display: table-cell;	
+}
+.secondbar{
+	width: 60%;
+}
+h2{
+	color: rgb(0, 162, 232);
+}
+img.arrowdrown{
+	  display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+	  width: 50px;
+	  height: 50px;	  
+}
+/*about*/
+
+/*works*/
+.works{
+	color: rgb(128, 255, 0);
+	text-align: center;
+	font-size: 2em;
+	width: 100%;	
+}
+.worksbackground{
+	background-color: rgb(46, 62, 78);
+}
+.paragraph{
+	text-align: center;	
+	padding: 10% ;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+.workslink{
+	text-align: right;
+}
+.container{
+	position: relative;
+}
+img.angle{	
+	width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.photoangle{
+	width: 100%;	
+}
+.pairphoto1{
+	position: absolute;
+	top: 50px;
+	left: 20%;
+}
+.Photography{
+	width: 200px;
+	height: 200px;
+}
+.pairphoto2{
+	position: absolute;
+	top: 270px;
+	left: 20%;
+}
+ img.other{
+	padding: 50px;
+	padding-bottom: 50px;
+}
+/*works*/
+
+/*Services*/
+.rand{
+	color: rgb(185, 122, 87);
+	font-size: 1.2em;
+}
+.table-logo{
+	display: table;	
+	width: 80%;
+	margin-left: auto;
+	margin-right: 200px;	
+}
+.row{
+	display: table-row;
+}
+.box{
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	padding-left: 150px;
+	font-size:1.2em 
+	color: rgb(81, 81, 81);	
+}
+/*service*/
+#contant{
+	background-color: rgb(46, 62, 78);
+}
+
+.contant{
+	color: rgb(255, 128, 255);
+}
+.sent{
+	color: rgb(184, 255, 123);
+}
+.tableinput{
+	display: table;
+	width: 100%;
+}
+.row{
+	display: table-row;
+}
+.tablecell{
+	display: table-cell;
+	text-align: center;		
+}
+input{
+	background-color:rgb(46, 62, 78) ;
+	width: 400px;
+	height: 35px;
+	font-size:1em;
+	border-top-color: transparent;
+	border-right-color: transparent;
+	border-left-color: transparent;
+	border-bottom-color: white;
+	outline: none;
+	color: white;
+	vertical-align: middle;
+}
+.submit{
+
+}
+
+.footer{
+	text-align: center;
+	padding: 15px;
+}
